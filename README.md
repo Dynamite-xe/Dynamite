@@ -1,0 +1,2 @@
+# Dynamite
+A discord bot
